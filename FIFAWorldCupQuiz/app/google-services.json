@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055798119409",
+    "firebase_url": "https://worldcupquiz-dc5c2-default-rtdb.firebaseio.com",
+    "project_id": "worldcupquiz-dc5c2",
+    "storage_bucket": "worldcupquiz-dc5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055798119409:android:d2d90ed691f32ef9071250",
+        "android_client_info": {
+          "package_name": "com.polware.fifaworldcupquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055798119409-6kh46i0vmdf9s9mn6soet8dcnt8f0p9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_dV_yo4v2U8W3WM9owthQo5B87a0sGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055798119409-6kh46i0vmdf9s9mn6soet8dcnt8f0p9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
